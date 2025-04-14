@@ -10,6 +10,8 @@ Sypex Dumper has been created by the specialists of a Ukrainian company BINOVATO
 
 Sypex Dumper is licensed under the BSD license, i.e. it is absolutely free.
 
+[https://sypex.net/en/](https://sypex.net/en/)
+
 ## Installing
 
 1. Unzip it and upload the contents of the directory to the server.
